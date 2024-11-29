@@ -1,4 +1,4 @@
-Hi 👋, My name is Nesma Aatef Muhammed
+Hi 👋, My name is Nesma Atef Muhammed
 
 
 💫 About Me:
