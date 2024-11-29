@@ -1,4 +1,5 @@
 Hi 👋, My name is Nesma Aatef Muhammed
+
 💫 About Me:
 I like to think of myself as a builder of digital bridges, connecting users with seamless and engaging web experiences.
 
@@ -7,7 +8,9 @@ I hold a degree in Computer Science from Ain Shams University, where I developed
 
 💻 Tech Stack:
 Core Tools: HTML, CSS, JavaScript, and Bootstrap.
+
 Modern Frameworks & Libraries: React, Redux, Next.js, and TypeScript.
+
 Styling & Tools: Tailwind CSS, Sass, Git, and Vite for efficient development workflows.
 
 📚 Always Learning:
