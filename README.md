@@ -7,6 +7,7 @@ I like to think of myself as a builder of digital bridges, connecting users with
 I hold a degree in Computer Science from Ain Shams University, where I developed a solid foundation in coding, problem-solving, and software development.
 
 💻 Tech Stack:
+
 Core Tools: HTML, CSS, JavaScript, and Bootstrap.
 
 Modern Frameworks & Libraries: React, Redux, Next.js, and TypeScript.
